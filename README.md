@@ -7,9 +7,9 @@
 
 ## Screenshots
 
-_          |  Server Example
+         |  
 :-------------------------:|:-------------------------:
-![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)  |  ![alt tag](https://raw.githubusercontent.com/dybiszb/NetworkScrabble/master/img/server_scr.png)
+![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)  |  ![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr2.png)
 
 
 
@@ -25,15 +25,18 @@ make all
 Two executables should be created: server and client.
 
 ## Run<a name="run"></a>
+ 
+To start with the application can work in two different modes:
+- CPU, runs calculations on a standard processor.
+- GPU, runs calculations on a graphics processor.
 
-First of all, run a server calling:
+In order to run the former call:
 ```
-./server
+./main cpu [number of spheres]
 ```
-in repository folder. At this point new clients can connect. Each of them
-must be started in new console window via:
+
+The latter one can be invoked via:
 ```
-./client
+./main gpu [number of spheres]
 ```
-If you want to break connection press CTRL-C. All controls are described
-during the client application runtime.
+
