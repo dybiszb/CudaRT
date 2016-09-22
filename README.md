@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-         |  
+Img1        | Img2  
 :-------------------------:|:-------------------------:
 ![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)  |  ![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr2.png)
 
@@ -27,8 +27,8 @@ Two executables should be created: server and client.
 ## Run<a name="run"></a>
  
 To start with the application can work in two different modes:
-- CPU, runs calculations on a standard processor.
-- GPU, runs calculations on a graphics processor.
+- CPU - runs calculations on a 'classic' processor.
+- GPU - runs calculations on a 'graphics' processor.
 
 In order to run the former call:
 ```
