@@ -6,10 +6,7 @@
 - CUDA
 
 ## Screenshots
-
-Img1        | Img2  
-:-------------------------:|:-------------------------:
-![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)  |  ![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr2.png)
+[alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)
 
 
 
