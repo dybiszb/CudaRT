@@ -9,9 +9,8 @@
 ![alt tag](https://raw.githubusercontent.com/dybiszb/GPURayTracer/master/img/scr1.png)
 
 
-
 ## Compiling<a name="compile"></a>
-Note: For obvious reasons only UNIX compilation is allowed.
+Note: Only UNIX compilation is allowed.
 
 In repository main folder call:
 
