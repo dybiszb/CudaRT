@@ -22,7 +22,7 @@ In repository main folder call:
 make all
 ```
 
-Two executables should be created: server and client.
+One executable called 'main' should be created.
 
 ## Run<a name="run"></a>
  
